@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(238, 232, 232);
+}
+text{
+    color: aliceblue;
+}
+.container{
+    max-width: 600px;
+}
+.btn{
+    background: rgb(176, 177, 176);
+    color: rgb(233, 227, 227);
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn:focus{
+    outline: none !important;
+}
+
+.username{
+    font-weight: bold;
+}
+.time{
+    font-size: 0.7em;
+    color: #999;
+}
